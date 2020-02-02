@@ -9,12 +9,12 @@ Conclusion: We propose novel models utilizing lipids, hormones and glycans that 
 
 ## Citation
 
-		@article{perakakis2019non,
-  		title={Non-invasive diagnosis of non-alcoholic steatohepatitis and fibrosis with the use of omics and supervised learning: A proof of concept study},
-			author={Perakakis, Nikolaos and Polyzos, Stergios A and Yazdani, Alireza and Sala-Vila, Aleix and Kountouras, Jannis and Anastasilakis, Athanasios D and Mantzoros, Christos S},
-		  journal={Metabolism},
-		  volume={101},
-		  pages={154005},
-		  year={2019},
-		  publisher={Elsevier}
-		}
+	@article{perakakis2019non,
+		title={Non-invasive diagnosis of non-alcoholic steatohepatitis and fibrosis with the use of omics and supervised learning: A proof of concept study},
+		author={Perakakis, Nikolaos and Polyzos, Stergios A and Yazdani, Alireza and Sala-Vila, Aleix and Kountouras, Jannis and Anastasilakis, Athanasios D and Mantzoros, Christos S},
+		journal={Metabolism},
+		volume={101},
+		pages={154005},
+		year={2019},
+		publisher={Elsevier}
+	}
